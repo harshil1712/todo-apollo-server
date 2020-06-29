@@ -1,0 +1,16 @@
+{
+  "name": "todo-graphql",
+  "version": "1.0.0",
+  "description": "GraphQL Server for todo list app",
+  "main": "index.js",
+  "author": "Harshil Agrawal (harshil1712)",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "apollo-server": "^2.15.0",
+    "graphql": "^15.2.0",
+    "nodemon": "^2.0.4"
+  }
+}

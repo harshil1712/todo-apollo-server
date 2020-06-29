@@ -1,0 +1,10 @@
+scalar Date
+
+type toDoItem {
+  id: ID!
+  title: String!
+  createdAt: Date
+}
+type Query {
+  toDos: [toDoItem]
+}
