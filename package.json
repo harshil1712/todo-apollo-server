@@ -9,7 +9,7 @@
     "start": "nodemon index.js"
   },
   "dependencies": {
-    "apollo-server": "^2.15.0",
+    "apollo-server": "^2.25.4",
     "graphql": "^15.2.0",
     "nodemon": "^2.0.4"
   }
